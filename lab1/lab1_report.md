@@ -1,4 +1,4 @@
-<img width="1710" height="1107" alt="Снимок экрана 2026-03-10 в 19 10 49" src="https://github.com/user-attachments/assets/e63814b9-6cbd-4859-bf10-84f326399705" /># Лабораторная работа №1
+# Лабораторная работа №1
 Основы работы с Docker
 
 Цель работы
@@ -33,4 +33,5 @@
 <img width="1328" height="826" alt="Снимок экрана 2026-03-10 в 19 18 57" src="https://github.com/user-attachments/assets/0fb323ef-9a79-41c5-871b-52ce7fddfb86" />
 <img width="1302" height="743" alt="Снимок экрана 2026-03-10 в 19 15 24" src="https://github.com/user-attachments/assets/4a4154de-fe5e-40e1-8189-a7e7a28e3663" />
 ading Снимок экрана 2026-03-10 в 19.10.49.png…]()
+
 
