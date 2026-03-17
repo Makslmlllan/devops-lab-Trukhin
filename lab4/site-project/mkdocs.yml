@@ -1,0 +1,22 @@
+site_name: SmartDebt
+site_description: "Мобильное приложение на основе блокчейна для регулирования заемно-долговых обязательств"
+site_author: "Максим Трухин"
+
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: light blue
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.share
+
+nav:
+  - "Главная": index.md
+  - "О проекте": project.md
+  - "Исследование": research.md
+  - "Обо мне": about.md
+  - "Контакты": contacts.md
